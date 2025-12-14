@@ -1,0 +1,14 @@
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+
+# Data files (avoid pushing large data)
+data/raw/
+data/processed/*.xlsx
+*.csv
+*.zip
+*.rar
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
